@@ -1,0 +1,5 @@
+Bill Gates,bg@gmail.com,1959-02-11,M,7689872345,billgates
+
+
+Bjarne Stroustroup,bs@hotmail.com,1975-12-12,M,3451234578,bjarne
+Bilvani,bilvani@hotmail.com,2000-03-12,F,3344567890,bilvani

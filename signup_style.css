@@ -1,0 +1,68 @@
+ /* =======================================================================
+***********************************************************************
+Author : Shivani Kolanu & Bilvani Veparala
+Assignment : Project 2 - Who wants to be a Millionaire
+Course : Web Programming
+Assignment Description : Creating a game called Who wants to be a Millionaire which is a kind of quiz game.
+Filename : signup_style.css
+************************************************************************
+========================================================================  */
+
+* {
+	font-size: 12pt;
+	font-family: "Verdana", "Geneva", sans-serif;
+}
+
+body{
+    background-image: url('img/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    resize: none;
+}
+
+form{
+    width: 35em;
+}
+
+legend {
+	background-color: white;
+	border: 2px outset gray;
+	padding: 0.2em;
+}
+
+fieldset {
+    margin-top: 15%;
+	background-color:purple;
+	border: 2px outset gray;
+	border-radius: 10px;
+}
+fieldset strong,
+.field strong,
+fieldset label.left,
+fieldset .column {
+	float: left;
+	width: 11em;
+}
+
+input[type="submit"] {
+	background-color: white;
+	font-size: 120%;
+	font-weight: bold;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+
+}
+
+a:hover{
+    color: black;
+    border: 2px solid white;
+    padding : 3px;
+    background-color: white;
+    border-radius: 5px;
+
+}

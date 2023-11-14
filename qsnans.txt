@@ -1,0 +1,18 @@
+$100;What sort of animal is Walt Disney's Dumbo?;Deer;Rabbit;Elephant;Donkey;Elephant
+$200;What was the name of the Spanish waiter in the TV sitcom "Fawlty Towers"?;Manuel;Pedro;Alfonso;Javier;Manuel
+$300;Which battles took place between the Royal Houses of York and Lancaster?;Thirty Years War;Hundred Years War;War of the Roses;English Civil War;War of the Roses
+$500;Which former Beatle narrated the TV adventures of Thomas the Tank Engine?;John Lennon;Paul McCartney;George Harrison;Ringo Starr;Ringo Starr
+$1,000;Queen Anne was the daughter of which English Monarch?;James II;Henry VIII;Victoria;William I;James II
+$2,000;Who composed "Rhapsody in Blue"?;Irving Berlin;George Gershwin;Aaron Copland;Cole Porter;George Gershwin
+$4,000;What is the Celsius equivalent of 77 degrees Fahrenheit?;15;20;25;30;25
+$8,000;Suffolk Punch and Hackney are types of what?;Carriage;Wrestling style;Cocktail;Horse;Horse
+$16,000;Which Shakespeare play features the line "Neither a borrower nor a lender be"?;Hamlet;Macbeth;Othello;The Merchant of Venice;Hamlet
+$32,000;Which is the largest city in the USA's largest state?;Dallas;Los Angeles;New York;Anchorage;Anchorage
+$64,000;The word "aristocracy" literally means power in the hands of whom?;The few;The best;The barons;The rich;The best
+$125,000;Where would a "peruke" be worn?;Around the neck;On the head;Around the waist;On the wrist;On the head
+$250,000;In which palace was Queen Elizabeth I born?;Greenwich;Richmond;Hampton Court;Kensington;Greenwich
+$500,000;From which author's work did scientists take the word "quark"?;Lewis Carroll;Edward Lear;James Joyce;Aldous Huxley;James Joyce
+$1 MILLION;Which of these islands was ruled by Britain from 1815 until 1864?;Crete;Cyprus;Corsica;Corfu;Corfu
+
+
+

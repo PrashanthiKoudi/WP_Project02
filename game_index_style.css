@@ -1,0 +1,102 @@
+/* 
+=======================================================================
+***********************************************************************
+Author : Shivani Kolanu & Bilvani Veparala
+Assignment : Project 2 - Who wants to be a Millionaire
+Course : Web Programming
+Assignment Description : Creating a game called Who wants to be a Millionaire which is a kind of quiz game.
+Filename : game_index_style.css
+************************************************************************
+========================================================================  */
+body{
+    background-image: url('img/game.jpeg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    resize: none;
+    color: white;
+    font-size: x-large;
+}
+
+
+
+img{
+    border-radius: 10%;
+
+
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+    background-color: purple;
+    border-radius: 5px;
+    border: 2px solid white;
+    padding: 5px;
+}
+
+.left{
+    float: left;
+    margin-left: 15%;
+    margin-top: 5%;
+}
+
+.right{
+    float:right;
+    margin-right: 15%;
+    margin-top: 5%;
+
+}
+table{
+    width: 100%;
+}
+td,th{
+    width: 50%;
+}
+#amnt{
+    margin-left: 40%;
+    width: 20%;
+    border:2px solid white;
+    margin-top: 22%;
+    background-color: purple;
+    border-radius: 5px;
+    padding: 4px;
+}
+#qsn{
+    
+    border:2px solid white;
+    background-color: purple;
+    border-radius: 5px;
+    padding: 4px;
+}
+tr,td{
+    border:2px solid white;
+    border-radius: 5px;
+    padding: 4px;
+    background-color: purple;
+}
+
+/* th{
+    width: 90%;
+} */
+
+input[type="submit"] {
+	background-color: white;
+	font-size: 90%;
+	font-weight: bold;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.drop{
+    background-color: white;
+	font-size: 90%;
+    color: black;
+	font-weight: bold;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+table th td .scoreboard{
+    color: yellow;
+}

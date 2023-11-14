@@ -1,0 +1,5 @@
+
+
+Bjarne Stroustroup;$300;03-24-23 22:40:51
+Bjarne Stroustroup;$0;03-24-23 22:41:03
+Bill Gates;$200;03-24-23 22:41:21
